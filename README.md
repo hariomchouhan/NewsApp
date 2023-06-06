@@ -75,5 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![image](https://github.com/hariomchouhan/NewsApp/assets/75517242/b51b414d-afa8-4f27-8933-08db7c5722c5)
 
 
-      
-https://www.veed.io/view/cc2a2e67-60d7-49b4-acb4-77f188c787c2/showcase
+![Screen Recording - June 6, 2023](https://github.com/hariomchouhan/NewsApp/assets/75517242/53e05cc9-6e6d-472a-a60b-a32737192bb9)
